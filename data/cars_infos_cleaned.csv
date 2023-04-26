@@ -1,0 +1,206 @@
+Prix($),Marque,Modèle,Classe,Portes,Longueur(cm),Hauteur(cm),Largeur(cm),Empattement(cm),Moteur(cm³),Poids(t),Carburant,ConsommationVille(L/100km),ConsommationAutoroute(L/100km),PositionMoteur,Transmission,Chevaux,Régime(tr/min),Turbo,Cylindres,Injecteur,TypeMoteur,Alésage(mm),Piston(cm),TauxCompression,CoteRisque
+13495.0,Alfa-Romeo,Giulia,Cabriolet,3,429,124,163,225,2130,1.156,Essence,0.089,0.115,Avant,Propulsion arrière,111,5000,False,4,MPFI,DOHC,88,7,9.0,3
+16500.0,Alfa-Romeo,Stelvio,Cabriolet,3,429,124,163,225,2130,1.156,Essence,0.089,0.115,Avant,Propulsion arrière,111,5000,False,4,MPFI,DOHC,88,7,9.0,3
+16500.0,Alfa-Romeo,Quadrifoglio,Hayon,3,435,133,166,240,2491,1.28,Essence,0.081,0.111,Avant,Propulsion arrière,154,5000,False,6,MPFI,OHCV,68,9,9.0,1
+13950.0,Audi,100Ls,Berline,5,449,138,168,253,1786,1.06,Essence,0.102,0.128,Avant,Traction avant,102,5500,False,4,MPFI,OHC,81,9,10.0,2
+17450.0,Audi,100Ls,Berline,5,449,138,169,252,2229,1.281,Essence,0.077,0.094,Avant,Quatre roues motrices,115,5500,False,5,MPFI,OHC,81,9,8.0,2
+15250.0,Audi,Fox,Berline,3,450,135,168,253,2229,1.137,Essence,0.081,0.106,Avant,Traction avant,110,5500,False,5,MPFI,OHC,81,9,8.5,2
+17710.0,Audi,100Ls,Berline,5,489,141,181,269,2229,1.29,Essence,0.081,0.106,Avant,Traction avant,110,5500,False,5,MPFI,OHC,81,9,8.5,1
+18920.0,Audi,5000,Break,5,489,141,181,269,2229,1.34,Essence,0.081,0.106,Avant,Traction avant,110,5500,False,5,MPFI,OHC,81,9,8.5,1
+23875.0,Audi,4000,Berline,5,489,142,181,269,2147,1.4,Essence,0.072,0.085,Avant,Traction avant,140,5500,True,5,MPFI,OHC,80,9,8.3,1
+17859.167,Audi,5000S (Diesel),Hayon,3,453,132,172,253,2147,1.385,Essence,0.068,0.094,Avant,Quatre roues motrices,160,5500,True,5,MPFI,OHC,80,9,7.0,0
+16430.0,BMW,320I,Berline,3,449,138,165,257,1770,1.086,Essence,0.098,0.123,Avant,Propulsion arrière,101,5800,False,4,MPFI,OHC,89,7,8.8,2
+16925.0,BMW,320I,Berline,5,449,138,165,257,1770,1.086,Essence,0.098,0.123,Avant,Propulsion arrière,101,5800,False,4,MPFI,OHC,89,7,8.8,0
+20970.0,BMW,X1,Berline,3,449,138,165,257,2687,1.229,Essence,0.089,0.119,Avant,Propulsion arrière,121,4250,False,6,MPFI,OHC,84,8,9.0,0
+21105.0,BMW,X3,Berline,5,449,138,165,257,2687,1.254,Essence,0.089,0.119,Avant,Propulsion arrière,121,4250,False,6,MPFI,OHC,84,8,9.0,0
+24565.0,BMW,Z4,Berline,5,480,141,170,263,2687,1.386,Essence,0.085,0.106,Avant,Propulsion arrière,121,4250,False,6,MPFI,OHC,84,8,9.0,1
+30760.0,BMW,X4,Berline,5,480,141,170,263,3425,1.465,Essence,0.068,0.094,Avant,Propulsion arrière,182,5400,False,6,MPFI,OHC,92,9,8.0,0
+41315.0,BMW,X5,Berline,3,492,136,172,263,3425,1.533,Essence,0.068,0.094,Avant,Propulsion arrière,182,5400,False,6,MPFI,OHC,92,9,8.0,0
+36880.0,BMW,X3,Berline,5,500,143,180,279,3425,1.59,Essence,0.064,0.085,Avant,Propulsion arrière,182,5400,False,6,MPFI,OHC,92,9,8.0,0
+5151.0,Chevrolet,Impala,Hayon,3,358,135,153,225,1000,0.675,Essence,0.2,0.225,Avant,Traction avant,48,5100,False,3,2BBL,L,74,8,9.5,2
+6295.0,Chevrolet,Monte Carlo,Hayon,3,396,132,162,240,1475,0.85,Essence,0.162,0.183,Avant,Traction avant,70,5400,False,4,2BBL,OHC,77,8,9.6,1
+6575.0,Chevrolet,Vega 2300,Berline,5,403,132,162,240,1475,0.866,Essence,0.162,0.183,Avant,Traction avant,70,5400,False,4,2BBL,OHC,77,8,9.6,0
+5572.0,Dodge,Rampage,Hayon,3,400,129,162,238,1475,0.851,Essence,0.157,0.174,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.41,1
+6377.0,Dodge,Challenger Se,Hayon,3,400,129,162,238,1475,0.851,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+7957.0,Dodge,D200,Hayon,3,400,129,162,238,1606,0.965,Essence,0.102,0.128,Avant,Traction avant,102,5500,True,4,MPFI,OHC,77,9,7.6,1
+6229.0,Dodge,Monaco (Sw),Hayon,5,400,129,162,238,1475,0.892,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+6692.0,Dodge,Colt Hardtop,Berline,5,400,129,162,238,1475,0.902,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+7609.0,Dodge,Colt (Sw),Berline,5,400,129,162,238,1475,0.902,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+8558.0,Dodge,Coronet Custom,Berline,3,400,129,162,238,1606,0.994,Essence,0.102,0.128,Avant,Traction avant,102,5500,True,4,MPFI,OHC,77,9,7.6,1
+8921.0,Dodge,Dart Custom,Break,5,443,152,164,262,1999,1.15,Essence,0.102,0.128,Avant,Traction avant,88,5000,False,4,2BBL,OHC,85,9,8.5,-1
+12964.0,Dodge,Coronet Custom (Sw),Hayon,3,440,128,168,244,2556,1.275,Essence,0.081,0.102,Avant,Traction avant,145,5000,True,4,MFI,OHC,91,10,7.0,3
+6479.0,Honda,Civic,Hayon,3,367,129,162,220,1508,0.777,Essence,0.208,0.23,Avant,Traction avant,58,4800,False,4,1BBL,OHC,74,9,9.6,2
+6855.0,Honda,Civic Cvcc,Hayon,3,367,129,162,220,1508,0.825,Essence,0.132,0.162,Avant,Traction avant,76,6000,False,4,1BBL,OHC,74,9,9.2,2
+5399.0,Honda,Civic,Hayon,3,381,134,163,238,1295,0.833,Essence,0.162,0.179,Avant,Traction avant,60,5500,False,4,1BBL,OHC,74,8,10.1,1
+6529.0,Honda,Accord Cvcc,Hayon,3,381,134,163,238,1508,0.88,Essence,0.128,0.145,Avant,Traction avant,76,6000,False,4,1BBL,OHC,74,9,9.2,1
+7129.0,Honda,Civic Cvcc,Hayon,3,381,134,163,238,1508,0.887,Essence,0.128,0.145,Avant,Traction avant,76,6000,False,4,1BBL,OHC,74,9,9.2,1
+7295.0,Honda,Accord Lx,Berline,5,415,138,163,245,1508,0.912,Essence,0.128,0.145,Avant,Traction avant,76,6000,False,4,1BBL,OHC,74,9,9.2,0
+7295.0,Honda,Civic 1500 Gl,Break,5,399,148,162,245,1508,0.918,Essence,0.128,0.145,Avant,Traction avant,76,6000,False,4,1BBL,OHC,74,9,9.2,0
+7895.0,Honda,Accord,Hayon,3,425,135,166,245,1803,1.014,Essence,0.115,0.14,Avant,Traction avant,86,5800,False,4,1BBL,OHC,80,9,9.0,0
+9095.0,Honda,Civic 1300,Hayon,3,425,135,166,245,1803,1.038,Essence,0.115,0.14,Avant,Traction avant,86,5800,False,4,1BBL,OHC,80,9,9.0,0
+8845.0,Honda,Prelude,Berline,5,446,137,166,245,1803,1.045,Essence,0.115,0.14,Avant,Traction avant,86,5800,False,4,1BBL,OHC,80,9,9.0,0
+10295.0,Honda,Accord,Berline,5,446,137,159,245,1803,1.076,Essence,0.115,0.14,Avant,Traction avant,86,5800,False,4,1BBL,OHC,80,9,9.0,0
+12945.0,Honda,Civic,Berline,5,446,137,166,245,1803,1.118,Essence,0.102,0.119,Avant,Traction avant,101,5800,False,4,MPFI,OHC,80,9,9.0,0
+10345.0,Honda,Civic (Auto),Berline,3,430,130,168,245,1803,1.04,Essence,0.106,0.132,Avant,Traction avant,100,5500,False,4,2BBL,OHC,80,9,9.1,1
+6785.0,Isuzu,Mu-X,Berline,5,434,136,157,240,1819,1.06,Essence,0.102,0.123,Avant,Propulsion arrière,78,4800,False,4,2BBL,OHC,84,8,8.5,0
+8916.5,Isuzu,D-Max ,Berline,3,396,132,162,240,1475,0.85,Essence,0.162,0.183,Avant,Traction avant,70,5400,False,4,2BBL,OHC,77,8,9.6,1
+8916.5,Isuzu,D-Max V-Cross,Berline,5,396,132,162,240,1475,0.866,Essence,0.162,0.183,Avant,Traction avant,70,5400,False,4,2BBL,OHC,77,8,9.6,0
+11048.0,Isuzu,D-Max ,Hayon,3,438,131,166,244,1950,1.24,Essence,0.102,0.123,Avant,Propulsion arrière,90,5000,False,4,SPFI,OHC,87,8,9.2,2
+32250.0,Jaguar,Xj,Berline,5,507,134,177,287,4228,1.844,Essence,0.064,0.081,Avant,Propulsion arrière,176,4750,False,6,MPFI,DOHC,92,11,8.1,0
+35550.0,Jaguar,Xf,Berline,5,507,134,177,287,4228,1.844,Essence,0.064,0.081,Avant,Propulsion arrière,176,4750,False,6,MPFI,DOHC,92,11,8.1,0
+36000.0,Jaguar,Xk,Berline,3,487,121,179,259,5342,1.792,Essence,0.055,0.072,Avant,Propulsion arrière,262,5000,False,12,MPFI,OHCV,90,7,11.5,0
+5195.0,Mazda,Rx3,Hayon,3,404,137,163,236,1491,0.857,Essence,0.128,0.132,Avant,Traction avant,68,5000,False,4,2BBL,OHC,77,8,9.0,1
+6095.0,Mazda,Glc Deluxe,Hayon,3,404,137,163,236,1491,0.862,Essence,0.132,0.162,Avant,Traction avant,68,5000,False,4,2BBL,OHC,77,8,9.0,1
+6795.0,Mazda,Rx2 Coupe,Hayon,3,404,137,163,236,1491,0.864,Essence,0.132,0.162,Avant,Traction avant,68,5000,False,4,2BBL,OHC,77,8,9.0,1
+6695.0,Mazda,Rx-4,Berline,5,424,137,163,236,1491,0.882,Essence,0.132,0.162,Avant,Traction avant,68,5000,False,4,2BBL,OHC,77,8,9.0,1
+7395.0,Mazda,Glc Deluxe,Berline,5,424,137,163,236,1491,0.885,Essence,0.132,0.162,Avant,Traction avant,68,5000,False,4,2BBL,OHC,78,8,9.0,1
+10945.0,Mazda,626,Hayon,3,429,126,167,242,1147,1.08,Essence,0.072,0.098,Avant,Propulsion arrière,101,6000,False,2,4BBL,ROTOR,85,8,9.4,3
+11845.0,Mazda,Glc,Hayon,3,429,126,167,242,1147,1.08,Essence,0.072,0.098,Avant,Propulsion arrière,101,6000,False,2,4BBL,ROTOR,85,8,9.4,3
+13645.0,Mazda,Rx-7 Gs,Hayon,3,429,126,167,242,1147,1.082,Essence,0.072,0.098,Avant,Propulsion arrière,101,6000,False,2,4BBL,ROTOR,85,8,9.4,3
+15645.0,Mazda,Glc 4,Hayon,3,429,126,167,242,1311,1.134,Essence,0.068,0.098,Avant,Propulsion arrière,135,6000,False,2,MPFI,ROTOR,85,8,9.4,3
+8845.0,Mazda,626,Hayon,3,452,136,169,251,1999,1.082,Essence,0.111,0.136,Avant,Traction avant,84,4800,False,4,2BBL,OHC,86,9,8.6,1
+8495.0,Mazda,Glc Custom L,Berline,5,452,141,169,251,1999,1.093,Essence,0.111,0.136,Avant,Traction avant,84,4800,False,4,2BBL,OHC,86,9,8.6,0
+10595.0,Mazda,Glc Custom,Hayon,3,452,136,169,251,1999,1.082,Essence,0.111,0.136,Avant,Traction avant,84,4800,False,4,2BBL,OHC,86,9,8.6,1
+10245.0,Mazda,Rx-4,Berline,5,452,141,169,251,1999,1.093,Essence,0.111,0.136,Avant,Traction avant,84,4800,False,4,2BBL,OHC,86,9,8.6,0
+10795.0,Mazda,Glc Deluxe,Berline,5,452,141,169,251,1999,1.108,Diesel,0.153,0.179,Avant,Traction avant,64,4650,False,4,IDI,OHC,86,9,22.7,0
+11245.0,Mazda,626,Hayon,5,452,141,169,251,1999,1.1,Essence,0.111,0.136,Avant,Traction avant,84,4800,False,4,2BBL,OHC,86,9,8.6,0
+18280.0,Mazda,Glc,Berline,5,444,138,168,266,2294,1.211,Essence,0.081,0.115,Avant,Propulsion arrière,120,5000,False,4,MPFI,OHC,96,8,8.0,0
+18344.0,Mazda,Rx-7 Gs,Berline,5,444,138,168,266,2196,1.225,Diesel,0.132,0.166,Avant,Propulsion arrière,72,4200,False,4,IDI,OHC,87,9,22.0,0
+25552.0,Buick,Electra 225 Custom,Berline,5,485,144,179,279,2999,1.594,Diesel,0.094,0.106,Avant,Propulsion arrière,123,4350,True,5,IDI,OHC,91,9,21.5,-1
+28248.0,Buick,Century Luxus (Sw),Break,5,485,149,179,279,2999,1.701,Diesel,0.094,0.106,Avant,Propulsion arrière,123,4350,True,5,IDI,OHC,91,9,21.5,-1
+28176.0,Buick,Century,Coupé,3,476,139,179,271,2999,1.585,Diesel,0.094,0.106,Avant,Propulsion arrière,123,4350,True,5,IDI,OHC,91,9,21.5,0
+31600.0,Buick,Skyhawk,Berline,5,515,143,182,294,2999,1.71,Diesel,0.094,0.106,Avant,Propulsion arrière,123,4350,True,5,IDI,OHC,91,9,21.5,-1
+34184.0,Buick,Opel Isuzu Deluxe,Berline,5,515,144,182,294,3835,1.696,Essence,0.068,0.077,Avant,Propulsion arrière,155,4750,False,8,MPFI,OHCV,88,8,8.3,-1
+35056.0,Buick,Skylark,Cabriolet,3,458,129,179,245,3835,1.671,Essence,0.068,0.077,Avant,Propulsion arrière,155,4750,False,8,MPFI,OHCV,88,8,8.3,3
+40960.0,Buick,Century Special,Berline,5,529,144,182,307,5047,1.769,Essence,0.06,0.068,Avant,Propulsion arrière,184,4500,False,8,MPFI,OHCV,97,9,8.0,0
+45400.0,Buick,Regal Sport Coupe (Turbo),Coupé,3,506,141,183,284,4982,1.685,Essence,0.06,0.068,Avant,Propulsion arrière,184,4500,False,8,MPFI,OHCV,97,9,8.0,1
+16503.0,Mercury,Cougar,Hayon,3,453,139,173,261,2294,1.32,Essence,0.081,0.102,Avant,Propulsion arrière,175,5000,True,4,MPFI,OHC,96,8,8.0,1
+5389.0,Mitsubishi,Mirage,Hayon,3,400,129,164,238,1508,0.87,Essence,0.157,0.174,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,2
+6189.0,Mitsubishi,Lancer,Hayon,3,400,129,164,238,1508,0.882,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,2
+6669.0,Mitsubishi,Outlander,Hayon,3,400,129,164,238,1508,0.909,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,2
+7689.0,Mitsubishi,G4,Hayon,3,400,129,162,236,1606,0.973,Essence,0.102,0.128,Avant,Traction avant,102,5500,True,4,SPDI,OHC,77,9,7.6,1
+9959.0,Mitsubishi,Mirage G4,Hayon,3,439,125,166,245,1803,1.075,Essence,0.098,0.128,Avant,Traction avant,116,5500,True,4,SPDI,OHC,81,9,7.5,3
+8499.0,Mitsubishi,G4,Hayon,3,439,125,166,245,1999,1.056,Essence,0.106,0.136,Avant,Traction avant,88,5000,False,4,2BBL,OHC,85,9,8.5,3
+12629.0,Mitsubishi,Outlander,Hayon,3,440,128,168,244,2556,1.285,Essence,0.081,0.102,Avant,Traction avant,145,5000,True,4,SPDI,OHC,91,10,7.0,3
+14869.0,Mitsubishi,G4,Hayon,3,440,128,168,244,2556,1.325,Essence,0.081,0.102,Avant,Traction avant,145,5000,True,4,SPDI,OHC,91,10,7.0,3
+14489.0,Mitsubishi,Mirage G4,Hayon,3,440,128,168,244,2556,1.327,Essence,0.081,0.102,Avant,Traction avant,145,5000,True,4,SPDI,OHC,91,10,7.0,3
+6989.0,Mitsubishi,Montero,Berline,5,438,131,166,245,1999,1.073,Essence,0.106,0.136,Avant,Traction avant,88,5000,False,4,2BBL,OHC,85,9,8.5,1
+8189.0,Mitsubishi,Pajero,Berline,5,438,131,166,245,1999,1.091,Essence,0.106,0.136,Avant,Traction avant,88,5000,False,4,2BBL,OHC,85,9,8.5,1
+9279.0,Mitsubishi,Outlander,Berline,5,438,131,166,245,1803,1.09,Essence,0.098,0.128,Avant,Traction avant,116,5500,True,4,SPDI,OHC,81,9,7.5,1
+9279.0,Mitsubishi,Mirage G4,Berline,5,438,131,166,245,1803,1.09,Essence,0.098,0.128,Avant,Traction avant,116,5500,False,4,SPDI,OHC,81,9,7.5,-1
+5499.0,Nissan,Versa,Berline,3,420,138,162,240,1590,0.857,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+7099.0,Nissan,Gt-R,Berline,3,420,138,162,240,1688,0.915,Diesel,0.191,0.213,Avant,Traction avant,55,4800,False,4,IDI,OHC,76,9,21.9,1
+6649.0,Nissan,Rogue,Berline,3,420,138,162,240,1590,0.87,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+6849.0,Nissan,Latio,Berline,5,420,138,162,240,1590,0.879,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+7349.0,Nissan,Titan,Break,5,432,136,162,240,1590,0.918,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+7299.0,Nissan,Leaf,Berline,3,420,138,162,240,1590,0.885,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+7799.0,Nissan,Juke,Hayon,3,421,135,162,240,1590,0.92,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+7499.0,Nissan,Latio,Berline,5,420,138,162,240,1590,0.894,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+7999.0,Nissan,Note,Break,5,432,136,162,240,1590,0.924,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,1
+8249.0,Nissan,Clipper,Coupé,3,412,135,162,242,1590,0.911,Essence,0.132,0.157,Avant,Traction avant,69,5200,False,4,2BBL,OHC,80,8,9.4,2
+8949.0,Nissan,Rogue,Hayon,5,440,139,166,247,1966,1.054,Essence,0.115,0.145,Avant,Traction avant,97,5200,False,4,2BBL,OHC,85,9,8.5,0
+9549.0,Nissan,Nv200,Berline,5,440,139,166,247,1966,1.044,Essence,0.115,0.145,Avant,Traction avant,97,5200,False,4,2BBL,OHC,85,9,8.5,0
+13499.0,Nissan,Dayz,Berline,5,462,140,169,255,2966,1.404,Essence,0.072,0.094,Avant,Traction avant,152,5200,False,6,MPFI,OHCV,87,8,9.0,0
+14399.0,Nissan,Fuga,Break,5,469,142,169,255,2966,1.495,Essence,0.072,0.094,Avant,Traction avant,152,5200,False,6,MPFI,OHCV,87,8,9.0,0
+13499.0,Nissan,Otti,Berline,5,469,140,169,255,2966,1.388,Essence,0.081,0.106,Avant,Traction avant,152,5200,False,6,MPFI,OHCV,87,8,9.0,0
+17199.0,Nissan,Teana,Hayon,3,434,126,172,232,2966,1.393,Essence,0.081,0.106,Avant,Propulsion arrière,160,5200,False,6,MPFI,OHCV,87,8,9.0,3
+19699.0,Nissan,Kicks,Hayon,3,434,126,172,232,2966,1.424,Essence,0.072,0.098,Avant,Propulsion arrière,200,5200,True,6,MPFI,OHCV,87,8,7.8,3
+18399.0,Nissan,Clipper,Hayon,3,453,126,172,252,2966,1.424,Essence,0.081,0.106,Avant,Propulsion arrière,160,5200,False,6,MPFI,OHCV,87,8,9.0,1
+11900.0,Peugeot,504,Berline,5,474,144,174,274,1966,1.37,Essence,0.081,0.102,Avant,Propulsion arrière,97,5000,False,4,MPFI,L,88,8,8.4,0
+13200.0,Peugeot,304,Berline,5,474,144,174,274,2491,1.45,Diesel,0.119,0.14,Avant,Propulsion arrière,95,4150,True,4,IDI,L,94,9,21.0,0
+12440.0,Peugeot,504 (Sw),Break,5,505,149,174,290,1966,1.465,Essence,0.081,0.102,Avant,Propulsion arrière,97,5000,False,4,MPFI,L,88,8,8.4,0
+13860.0,Peugeot,504,Break,5,505,149,174,290,2491,1.556,Diesel,0.106,0.106,Avant,Propulsion arrière,95,4150,True,4,IDI,L,94,9,21.0,0
+15580.0,Peugeot,504,Berline,5,474,144,174,274,1966,1.395,Essence,0.081,0.102,Avant,Propulsion arrière,95,5000,False,4,MPFI,L,88,6,8.4,0
+16900.0,Peugeot,604Sl,Berline,5,474,144,174,274,2491,1.475,Diesel,0.119,0.14,Avant,Propulsion arrière,95,4150,True,4,IDI,L,94,9,21.0,0
+16695.0,Peugeot,504,Break,5,505,144,174,290,1966,1.49,Essence,0.081,0.102,Avant,Propulsion arrière,95,5000,False,4,MPFI,L,88,6,8.4,0
+17075.0,Peugeot,505S Turbo Diesel,Break,5,505,149,174,290,2491,1.581,Diesel,0.106,0.106,Avant,Propulsion arrière,95,4150,True,4,IDI,L,94,9,21.0,0
+16630.0,Peugeot,504,Berline,5,474,144,174,274,1966,1.395,Essence,0.081,0.102,Avant,Propulsion arrière,97,5000,False,4,MPFI,L,88,8,8.4,0
+17950.0,Peugeot,504,Berline,5,474,144,174,274,2491,1.475,Diesel,0.119,0.14,Avant,Propulsion arrière,95,4150,True,4,IDI,L,94,9,21.0,0
+18150.0,Peugeot,604Sl,Berline,5,474,142,173,274,2196,1.42,Essence,0.077,0.102,Avant,Propulsion arrière,142,5600,True,4,MPFI,L,92,8,7.0,0
+5572.0,Plymouth,Fury Iii,Hayon,3,400,129,162,238,1475,0.87,Essence,0.157,0.174,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+7957.0,Plymouth,Cricket,Hayon,3,400,129,162,238,1606,0.965,Essence,0.102,0.128,Avant,Traction avant,102,5500,True,4,SPDI,OHC,77,9,7.6,1
+6229.0,Plymouth,Fury Iii,Hayon,5,400,129,162,238,1475,0.892,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+6692.0,Plymouth,Satellite Custom (Sw),Berline,5,425,129,162,238,1475,0.902,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+7609.0,Plymouth,Fury Gran Sedan,Berline,5,425,129,162,238,1606,0.994,Essence,0.132,0.162,Avant,Traction avant,68,5500,False,4,2BBL,OHC,75,8,9.4,1
+8921.0,Plymouth,Valiant,Break,5,443,152,164,262,1999,1.15,Essence,0.102,0.128,Avant,Traction avant,88,5000,False,4,2BBL,OHC,85,9,8.5,-1
+12764.0,Plymouth,Duster,Hayon,3,440,128,168,244,2556,1.278,Essence,0.081,0.102,Avant,Propulsion arrière,145,5000,True,4,SPDI,OHC,91,10,7.0,3
+22018.0,Porsche,Macan,Hayon,3,429,128,173,240,2474,1.26,Essence,0.081,0.115,Avant,Propulsion arrière,143,5500,False,4,MPFI,OHC,100,8,9.5,3
+32528.0,Porsche,Panamera,Coupé,3,429,131,165,227,3179,1.25,Essence,0.072,0.106,Arrière,Propulsion arrière,207,5900,False,6,MPFI,OHCF,95,7,9.5,3
+34028.0,Porsche,Cayenne,Coupé,3,429,131,165,227,3179,1.25,Essence,0.072,0.106,Arrière,Propulsion arrière,207,5900,False,6,MPFI,OHCF,95,7,9.5,3
+37028.0,Porsche,Boxter,Cabriolet,3,429,131,165,227,3179,1.27,Essence,0.072,0.106,Arrière,Propulsion arrière,207,5900,False,6,MPFI,OHCF,95,7,9.5,3
+31400.5,Porsche,Cayenne,Hayon,3,446,128,184,250,3327,1.527,Essence,0.072,0.119,Avant,Propulsion arrière,288,5750,False,8,MPFI,DOHCV,100,8,10.0,1
+9295.0,Renault,12Tl,Break,5,461,140,169,244,2163,1.17,Essence,0.098,0.132,Avant,Traction avant,90,5100,False,4,MPFI,OHC,88,10,8.7,0
+9895.0,Renault,5 Gtl,Hayon,3,449,128,169,244,2163,1.116,Essence,0.098,0.132,Avant,Traction avant,90,5100,False,4,MPFI,OHC,88,10,8.7,2
+11850.0,Saab,99E,Hayon,3,474,142,169,252,1983,1.206,Essence,0.089,0.119,Avant,Traction avant,110,5250,False,4,MPFI,OHC,90,8,9.31,3
+12170.0,Saab,99Le,Berline,5,474,142,169,252,1983,1.222,Essence,0.089,0.119,Avant,Traction avant,110,5250,False,4,MPFI,OHC,90,8,9.3,2
+15040.0,Saab,99Le,Hayon,3,474,142,169,252,1983,1.228,Essence,0.089,0.119,Avant,Traction avant,110,5250,False,4,MPFI,OHC,65,5,9.3,3
+15510.0,Saab,99Gle,Berline,5,474,142,169,252,1983,1.251,Essence,0.089,0.119,Avant,Traction avant,110,5250,False,4,MPFI,OHC,90,8,9.3,2
+18150.0,Saab,99Gle,Hayon,3,474,142,169,252,1983,1.274,Essence,0.081,0.111,Avant,Traction avant,160,5500,True,4,MPFI,DOHC,90,8,9.0,3
+18620.0,Saab,99E,Berline,5,474,142,169,252,1983,1.291,Essence,0.081,0.111,Avant,Traction avant,160,5500,True,4,MPFI,DOHC,90,8,9.0,2
+5118.0,Subaru,,Hayon,3,399,136,161,238,1590,0.93,Essence,0.132,0.153,Avant,Traction avant,69,4900,False,4,2BBL,OHCF,92,6,9.0,2
+7053.0,Subaru,Dl,Hayon,3,401,136,162,238,1770,0.962,Essence,0.111,0.132,Avant,Traction avant,73,4400,False,4,2BBL,OHCF,92,7,8.7,2
+7603.0,Subaru,Dl,Hayon,3,400,141,162,237,1770,1.016,Essence,0.111,0.132,Avant,Quatre roues motrices,73,4400,False,4,2BBL,OHCF,92,7,8.7,2
+7126.0,Subaru,,Berline,5,437,133,166,247,1770,0.973,Essence,0.136,0.157,Avant,Traction avant,82,4800,False,4,2BBL,OHCF,92,7,9.5,0
+7775.0,Subaru,Brz,Berline,5,437,133,166,247,1770,0.993,Essence,0.119,0.14,Avant,Traction avant,82,4400,False,4,2BBL,OHCF,92,7,9.5,0
+9960.0,Subaru,Baja,Berline,5,437,133,166,247,1770,1.061,Essence,0.111,0.136,Avant,Traction avant,94,5200,False,4,MPFI,OHCF,92,7,9.0,0
+9233.0,Subaru,R1,Berline,5,437,138,166,246,1770,1.082,Essence,0.102,0.106,Avant,Quatre roues motrices,82,4800,False,4,2BBL,OHCF,92,7,9.0,0
+11259.0,Subaru,R2,Berline,5,437,138,166,246,1770,1.139,Essence,0.102,0.123,Avant,Quatre roues motrices,111,4800,True,4,MPFI,OHCF,92,7,7.7,0
+7463.0,Subaru,Trezia,Break,5,441,135,166,246,1770,1.039,Essence,0.119,0.136,Avant,Traction avant,82,4800,False,4,2BBL,OHCF,92,7,9.0,0
+10198.0,Subaru,Tribeca,Break,5,441,135,166,246,1770,1.114,Essence,0.106,0.132,Avant,Traction avant,94,5200,False,4,MPFI,OHCF,92,7,9.0,0
+8013.0,Subaru,Dl,Break,5,441,139,166,246,1770,1.098,Essence,0.098,0.123,Avant,Quatre roues motrices,82,4800,False,4,2BBL,OHCF,92,7,9.0,0
+11694.0,Subaru,Dl,Break,5,441,139,166,246,1770,1.202,Essence,0.098,0.098,Avant,Quatre roues motrices,111,4800,True,4,MPFI,OHCF,92,7,7.7,0
+5348.0,Toyota,Corona Mark Ii,Hayon,3,403,138,162,243,1508,0.9,Essence,0.149,0.166,Avant,Traction avant,62,4800,False,4,2BBL,OHC,77,8,9.0,1
+6338.0,Toyota,Corona,Hayon,3,403,138,162,243,1508,0.925,Essence,0.132,0.162,Avant,Traction avant,62,4800,False,4,2BBL,OHC,77,8,9.0,1
+6488.0,Toyota,Corolla 1200,Hayon,5,403,138,162,243,1508,0.914,Essence,0.132,0.162,Avant,Traction avant,62,4800,False,4,2BBL,OHC,77,8,9.0,1
+6918.0,Toyota,Corona Hardtop,Break,5,431,150,162,243,1508,1.034,Essence,0.132,0.157,Avant,Traction avant,62,4800,False,4,2BBL,OHC,77,8,9.0,0
+7898.0,Toyota,Corolla 1600 (Sw),Break,5,431,150,162,243,1508,1.039,Essence,0.115,0.136,Avant,Quatre roues motrices,62,4800,False,4,2BBL,OHC,77,8,9.0,0
+8778.0,Toyota,Carina,Break,5,431,150,162,243,1508,1.411,Essence,0.115,0.136,Avant,Quatre roues motrices,62,4800,False,4,2BBL,OHC,77,8,9.0,0
+6938.0,Toyota,Mark Ii,Berline,5,422,135,164,243,1606,0.944,Essence,0.128,0.157,Avant,Traction avant,70,4800,False,4,2BBL,OHC,81,8,9.0,0
+7198.0,Toyota,Corolla 1200,Hayon,5,422,134,164,243,1606,0.957,Essence,0.128,0.157,Avant,Traction avant,70,4800,False,4,2BBL,OHC,81,8,9.0,0
+7898.0,Toyota,Corona,Berline,5,422,135,164,243,1803,1.032,Diesel,0.145,0.153,Avant,Traction avant,56,4500,False,4,IDI,OHC,83,9,22.5,0
+7788.0,Toyota,Corolla,Hayon,5,422,134,164,243,1803,1.032,Diesel,0.162,0.2,Avant,Traction avant,56,4500,False,4,IDI,OHC,83,9,22.5,0
+7738.0,Toyota,Corona,Berline,5,422,135,164,243,1606,0.95,Essence,0.162,0.2,Avant,Traction avant,70,4800,False,4,2BBL,OHC,81,8,9.0,0
+8358.0,Toyota,Corolla,Hayon,5,422,134,164,243,1606,0.963,Essence,0.119,0.145,Avant,Traction avant,70,4800,False,4,2BBL,OHC,81,8,9.0,0
+9258.0,Toyota,Mark Ii,Berline,5,422,134,164,243,1606,0.971,Essence,0.119,0.145,Avant,Traction avant,70,4800,False,4,2BBL,OHC,81,8,9.0,0
+8058.0,Toyota,Corolla Liftback,Berline,3,428,134,163,240,1606,0.984,Essence,0.123,0.145,Avant,Propulsion arrière,70,4800,False,4,2BBL,OHC,81,8,9.0,1
+8238.0,Toyota,Corona,Hayon,3,428,134,163,240,1606,1.0,Essence,0.123,0.145,Avant,Propulsion arrière,70,4800,False,4,2BBL,OHC,81,8,9.0,1
+9298.0,Toyota,Celica Gt Liftback,Berline,3,428,134,163,240,1606,1.027,Essence,0.111,0.123,Avant,Propulsion arrière,112,6600,False,4,MPFI,DOHC,82,8,9.4,1
+9538.0,Toyota,Corolla Tercel,Hayon,3,428,134,163,240,1606,1.043,Essence,0.111,0.123,Avant,Propulsion arrière,112,6600,False,4,MPFI,DOHC,82,8,9.4,1
+8449.0,Toyota,Corona Liftback,Coupé,3,448,132,167,250,2393,1.152,Essence,0.102,0.128,Avant,Propulsion arrière,116,4800,False,4,MPFI,OHC,92,9,9.3,2
+9639.0,Toyota,Corolla,Coupé,3,448,132,167,250,2393,1.15,Essence,0.102,0.128,Avant,Propulsion arrière,116,4800,False,4,MPFI,OHC,92,9,9.3,2
+9989.0,Toyota,Starlet,Hayon,3,448,132,167,250,2393,1.157,Essence,0.102,0.128,Avant,Propulsion arrière,116,4800,False,4,MPFI,OHC,92,9,9.3,2
+11199.0,Toyota,Tercel,Coupé,3,448,132,167,250,2393,1.215,Essence,0.102,0.128,Avant,Propulsion arrière,116,4800,False,4,MPFI,OHC,92,9,9.3,2
+11549.0,Toyota,Corolla,Hayon,3,448,132,167,250,2393,1.231,Essence,0.102,0.128,Avant,Propulsion arrière,116,4800,False,4,MPFI,OHC,92,9,9.3,2
+17669.0,Toyota,Cressida,Cabriolet,3,448,135,167,250,2393,1.349,Essence,0.102,0.128,Avant,Propulsion arrière,116,4800,False,4,MPFI,OHC,92,9,9.3,2
+8948.0,Toyota,Corolla,Berline,5,446,139,169,260,1999,1.055,Essence,0.123,0.145,Avant,Traction avant,92,4200,False,4,MPFI,OHC,84,9,8.7,-1
+10698.0,Toyota,Celica Gt,Berline,5,446,139,169,260,1803,1.125,Diesel,0.128,0.14,Avant,Traction avant,73,4500,True,4,IDI,OHC,83,9,22.5,-1
+9988.0,Toyota,Corona,Hayon,5,446,137,169,260,1999,1.095,Essence,0.115,0.136,Avant,Traction avant,92,4200,False,4,MPFI,OHC,84,9,8.7,-1
+10898.0,Toyota,Corolla,Berline,5,446,139,169,260,1999,1.095,Essence,0.115,0.136,Avant,Traction avant,92,4200,False,4,MPFI,OHC,84,9,8.7,-1
+11248.0,Toyota,Mark Ii,Hayon,5,446,137,169,260,1999,1.115,Essence,0.115,0.136,Avant,Traction avant,92,4200,False,4,MPFI,OHC,84,9,8.7,-1
+16558.0,Toyota,Corolla Liftback,Hayon,3,466,132,172,261,2802,1.35,Essence,0.085,0.102,Avant,Propulsion arrière,161,5200,False,6,MPFI,DOHC,83,9,9.3,3
+15998.0,Toyota,Corona,Hayon,3,466,132,172,261,2802,1.368,Essence,0.081,0.102,Avant,Propulsion arrière,161,5200,False,6,MPFI,DOHC,83,9,9.3,3
+15690.0,Toyota,Starlet,Berline,5,477,137,169,265,2802,1.42,Essence,0.085,0.102,Avant,Propulsion arrière,156,5200,False,6,MPFI,DOHC,83,9,9.2,-1
+15750.0,Toyota,Tercel,Break,5,477,137,169,265,2638,1.429,Essence,0.081,0.102,Avant,Propulsion arrière,156,5200,False,6,MPFI,DOHC,83,9,9.2,-1
+7775.0,Volkswagen,Rabbit,Berline,3,436,141,166,247,1590,1.026,Diesel,0.157,0.196,Avant,Traction avant,52,4800,False,4,IDI,OHC,76,9,23.0,2
+7975.0,Volkswagen,1131 Deluxe Sedan,Berline,3,436,141,166,247,1786,1.002,Essence,0.115,0.145,Avant,Traction avant,85,5250,False,4,MPFI,OHC,81,9,9.0,2
+7995.0,Volkswagen,Model 111,Berline,5,436,141,166,247,1590,1.027,Diesel,0.157,0.196,Avant,Traction avant,52,4800,False,4,IDI,OHC,76,9,23.0,2
+8195.0,Volkswagen,Type 3,Berline,5,436,141,166,247,1786,1.003,Essence,0.115,0.145,Avant,Traction avant,85,5250,False,4,MPFI,OHC,81,9,9.0,2
+8495.0,Volkswagen,411 (Sw),Berline,5,436,141,166,247,1786,1.032,Essence,0.115,0.145,Avant,Traction avant,85,5250,False,4,MPFI,OHC,81,9,9.0,2
+9495.0,Volkswagen,Super Beetle,Berline,5,436,141,166,247,1590,1.052,Diesel,0.157,0.179,Avant,Traction avant,68,4500,True,4,IDI,OHC,76,9,23.0,2
+9995.0,Volkswagen,Dasher,Berline,5,436,141,166,247,1786,1.043,Essence,0.111,0.136,Avant,Traction avant,100,5500,False,4,MPFI,OHC,81,9,10.0,2
+11595.0,Volkswagen,Dasher,Cabriolet,3,405,141,163,240,1786,1.022,Essence,0.102,0.123,Avant,Traction avant,90,5500,False,4,MPFI,OHC,81,9,8.5,3
+9980.0,Volkswagen,Rabbit,Hayon,3,421,131,163,240,1786,1.007,Essence,0.102,0.123,Avant,Traction avant,90,5500,False,4,MPFI,OHC,81,9,8.5,3
+13295.0,Volkswagen,Rabbit,Berline,5,458,140,170,255,2229,1.207,Essence,0.081,0.102,Avant,Traction avant,110,5500,False,5,MPFI,OHC,81,9,8.5,0
+13845.0,Volkswagen,Rabbit Custom,Berline,5,458,140,170,255,1590,1.17,Diesel,0.14,0.162,Avant,Traction avant,68,4500,True,4,IDI,OHC,76,9,23.0,0
+12290.0,Volkswagen,Dasher,Break,5,465,140,170,255,1786,1.163,Essence,0.106,0.132,Avant,Traction avant,88,5500,False,4,MPFI,OHC,81,9,9.0,0
+12940.0,Volvo,145E (Sw),Berline,5,480,143,171,265,2311,1.321,Essence,0.098,0.119,Avant,Propulsion arrière,114,5400,False,4,MPFI,OHC,96,8,9.5,-2
+13415.0,Volvo,144Ea,Break,5,480,146,171,265,2311,1.376,Essence,0.098,0.119,Avant,Propulsion arrière,114,5400,False,4,MPFI,OHC,96,8,9.5,-1
+15985.0,Volvo,244Dl,Berline,5,480,143,171,265,2311,1.331,Essence,0.102,0.119,Avant,Propulsion arrière,114,5400,False,4,MPFI,OHC,96,8,9.5,-2
+16515.0,Volvo,245,Break,5,480,146,171,265,2311,1.38,Essence,0.102,0.119,Avant,Propulsion arrière,114,5400,False,4,MPFI,OHC,96,8,9.5,-1
+18420.0,Volvo,264Gl,Berline,5,480,143,171,265,2130,1.381,Essence,0.072,0.094,Avant,Propulsion arrière,162,5100,True,4,MPFI,OHC,92,8,7.5,-2
+18950.0,Volvo,Diesel,Break,5,480,146,171,265,2130,1.432,Essence,0.072,0.094,Avant,Propulsion arrière,162,5100,True,4,MPFI,OHC,92,8,7.5,-1
+16845.0,Volvo,145E (Sw),Berline,5,480,141,175,277,2311,1.339,Essence,0.098,0.119,Avant,Propulsion arrière,114,5400,False,4,MPFI,OHC,96,8,9.5,-1
+19045.0,Volvo,144Ea,Berline,5,480,141,175,277,2311,1.383,Essence,0.081,0.106,Avant,Propulsion arrière,160,5300,True,4,MPFI,OHC,96,8,8.7,-1
+21485.0,Volvo,244Dl,Berline,5,480,141,175,277,2835,1.366,Essence,0.077,0.098,Avant,Propulsion arrière,134,5500,False,6,MPFI,OHCV,91,7,8.8,-1
+22470.0,Volvo,246,Berline,5,480,141,175,277,2376,1.459,Diesel,0.111,0.115,Avant,Propulsion arrière,106,4800,True,6,IDI,OHC,76,9,23.0,-1
+22625.0,Volvo,264Gl,Berline,5,480,141,175,277,2311,1.389,Essence,0.081,0.106,Avant,Propulsion arrière,114,5400,True,4,MPFI,OHC,96,8,9.5,-1
